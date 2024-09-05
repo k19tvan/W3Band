@@ -18,7 +18,7 @@ There is one way in several ways you can run this code:
 >  - You can use this link: [Download Visual Studio Code](https://code.visualstudio.com/download)
 >- Install Live Sever Extension
 >- Open index.html file attached in this github.
->- Click Live Sever in the bottom-right corner of Visual Studio Code.'
+>- Click Live Sever in the bottom-right corner of Visual Studio Code.
 
 Then The Website will display.
 
@@ -26,3 +26,7 @@ Then The Website will display.
 You can contact me with:
 - Phone Number: 0333323108
 - Email: tva9a2006@gmail.com
+
+## Reference from:
+- In course: [f8-html-css](https://fullstack.edu.vn/learning/html-css)
+- Web Sample: [w3school-w3band](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
