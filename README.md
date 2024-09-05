@@ -4,11 +4,12 @@ This is a website made for studying website building
 
 ## INSTALLATION:
 You can istall this html code through some steps:
->  - Create new local repository: git init
->  - Config name and mail which are your github's name and email:
->    - git config --global user.name [user's name]
->    - git confit --global user.email [user's email]
->  - clone project to your workspace: git clone [github-repository-link]
+>- Create new local repository: git init
+> -Config name and mail which are your github's name and email:
+>  - git config --global user.name [user's name]
+>  - git confit --global user.email [user's email]
+>- Clone project to your workspace: git clone [github-repository-link]
+
 Now, you can adjust and run this code according to your favorite.
 
 ## HOW TO USE:
