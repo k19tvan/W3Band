@@ -13,14 +13,14 @@ You can istall this html code through some steps:
 >  - Now, you can adjust and run this code according to your favorite.
 
 ## HOW TO USE:
-There is one way in several ways you can run this code:
+There is one in several ways you can run this code:
 >- Download Visual Studio Code (You could skip this step if you done)
 >  - You can use this link: [Download Visual Studio Code](https://code.visualstudio.com/download)
 >- Install Live Sever Extension
 >- Open index.html file attached in this github.
 >- Click Live Sever in the bottom-right corner of Visual Studio Code.
 
-Then The Website will display.
+Then The Website will be displayed.
 
 ## ADD CONTRIBUTORS: 
 To contribute to this github, you can contact with me through phone or email. Then i will send a request to be my collaborators.
