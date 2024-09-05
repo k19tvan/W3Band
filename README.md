@@ -16,7 +16,7 @@ You can istall this html code through some steps:
 There is one way in several ways you can run this code:
 >- Download Visual Studio Code (You could skip this step if you done)
 >  - You can use this link: [Download Visual Studio Code](https://code.visualstudio.com/download)
->- Download Live Sever Extension
+>- Install Live Sever Extension
 >- Open index.html file attached in this github.
 >- Click Live Sever in the bottom-right corner of Visual Studio Code.'
 
