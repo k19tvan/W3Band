@@ -22,11 +22,22 @@ There is one way in several ways you can run this code:
 
 Then The Website will display.
 
+## ADD CONTRIBUTORS: 
+To contribute to this github, you can contact with me through phone or email. Then i will send a request to be my collaborators.
+After becoming my collaborators, you can adjust and push your files on github Repository.
+There are some steps to push your file:
+>- Add a remote: git remote add origin [https://github.com/k19tvan/W3Band.git] (If you cloned Repository, you can skip this step)
+>- Change master branch name: branch -M main
+>- Add files to Staging Area: git add [tenfile]
+>- Commit files to Local Repository: git commit -m "First commit"
+>- Push on github Repository: git push -u origin main
+
+## REFERENCE FROM:
+>- In course: [f8-html-css](https://fullstack.edu.vn/learning/html-css)
+>- Web Sample: [w3school-w3band](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
+
 ## CONTACT INFORMATION:
 You can contact me with:
-- Phone Number: 0333323108
-- Email: tva9a2006@gmail.com
+>- Phone Number: 0333323108
+>- Email: tva9a2006@gmail.com
 
-## Reference from:
-- In course: [f8-html-css](https://fullstack.edu.vn/learning/html-css)
-- Web Sample: [w3school-w3band](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
