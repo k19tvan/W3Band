@@ -26,7 +26,7 @@ Then The Website will be displayed.
 To contribute to this github, you can contact with me through phone or email. Then i will send a request to be my collaborators.
 After becoming my collaborators, you can adjust and push your files on github Repository.
 There are some steps to push your file:
->- Add a remote: git remote add origin [https://github.com/k19tvan/W3Band.git] (If you cloned Repository, you can skip this step)
+>- Add a remote: git remote add origin https://github.com/k19tvan/W3Band.git (If you cloned Repository, you can skip this step)
 >- Change master branch name: branch -M main
 >- Add files to Staging Area: git add [tenfile]
 >- Commit files to Local Repository: git commit -m "First commit"
