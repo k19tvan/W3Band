@@ -1,6 +1,6 @@
 # First HTML Website
 ## INTRODUCE
-This is a website made for studying website building
+This is a website made for studying website building.
 
 ## INSTALLATION:
 You can istall this html code through some steps:
